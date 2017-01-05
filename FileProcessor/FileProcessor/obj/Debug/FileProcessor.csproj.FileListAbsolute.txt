@@ -1,0 +1,8 @@
+C:\Users\Lasya\Desktop\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe.config
+C:\Users\Lasya\Desktop\FileProcessor\FileProcessor\obj\Debug\FileProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Lasya\Desktop\FileProcessor\FileProcessor\bin\Debug\FileProcessor.exe
+C:\Users\Lasya\Desktop\FileProcessor\FileProcessor\bin\Debug\FileProcessor.pdb
+C:\Users\Lasya\Desktop\FileProcessor\FileProcessor\bin\Debug\EmailSender.dll
+C:\Users\Lasya\Desktop\FileProcessor\FileProcessor\bin\Debug\EmailSender.pdb
+C:\Users\Lasya\Desktop\FileProcessor\FileProcessor\obj\Debug\FileProcessor.exe
+C:\Users\Lasya\Desktop\FileProcessor\FileProcessor\obj\Debug\FileProcessor.pdb

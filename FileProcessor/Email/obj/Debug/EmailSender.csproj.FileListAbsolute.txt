@@ -1,0 +1,6 @@
+C:\Users\Lasya\Desktop\FileProcessor\Email\bin\Debug\EmailSender.dll.config
+C:\Users\Lasya\Desktop\FileProcessor\Email\bin\Debug\EmailSender.dll
+C:\Users\Lasya\Desktop\FileProcessor\Email\bin\Debug\EmailSender.pdb
+C:\Users\Lasya\Desktop\FileProcessor\Email\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
+C:\Users\Lasya\Desktop\FileProcessor\Email\obj\Debug\EmailSender.dll
+C:\Users\Lasya\Desktop\FileProcessor\Email\obj\Debug\EmailSender.pdb
